@@ -1,7 +1,7 @@
 /*
 	Pivot To Transformation-Limit Control Position
 
-	Copy pivot positions from a Peg or Drawing node and paste on Transformation-Limit node's pivot.
+	This Toon Boom Harmony shelf script copies pivot positions from a Peg or Drawing node and paste on Transformation-Limit node's pivot.
 	
 		v1.2 - Deletes unlinked bezier column.
 		v1.21 - Makes the control position cursor visible after setting its positions.		
@@ -13,8 +13,8 @@
 	2) Locate to your user scripts folder (a hidden folder):
 	   https://docs.toonboom.com/help/harmony-17/premium/scripting/import-script.html	
 	   
-	3) Add all unzipped files (*.js, and script-icons folder) directly to the folder above.
-	4) Add RIG_Pivot_To_TransformationLimit_Ctrl_Position to any toolbar.	
+	3) There is a folder named "src" inside the zip file. Copy all its contents directly to the folder above.
+	4) In Harmony, add RIG_Pivot_To_TransformationLimit_Ctrl_Position function to any toolbar.	
 	
 	
 	Direction:
